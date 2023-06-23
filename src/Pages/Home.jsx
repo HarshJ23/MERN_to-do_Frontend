@@ -4,7 +4,7 @@ import { Context  , server } from "../main";
 import { useState } from 'react';
 import toast from "react-hot-toast";
 import axios from  "axios" ;
-import TodoItem from '../Components/ToDoItem';
+import TodoItem from '../Components/TodoItem';
 
 
 export default function Home() {
